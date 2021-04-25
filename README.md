@@ -20,4 +20,10 @@
  However, bulk of adjustments in CSS code were fixed or inserted or deleted
  reference commit on git hub.
 
+ -fixed accessibility in html 
+ -headers matched logical stucture
+ -alt attributes
+ -id= to body
+ -CSS removed and added reppetitive code 
+
 
