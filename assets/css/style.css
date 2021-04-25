@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS';
@@ -46,7 +46,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -125,7 +125,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Hero Style End */
+/* Footer Start */
 footer {
     padding: 30px;
     clear: both;
@@ -136,3 +137,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer End */
